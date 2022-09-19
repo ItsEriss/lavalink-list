@@ -114,6 +114,20 @@ port: 1026
 password: youshallnotpass
 Secure: false
 ```
+Hosted by @ [ayvl#2008](https://discord.gg/thermalhosting)
+```bash
+host: nyc-04.thermalhosting.com
+port: 2002
+password: thermalhosting.lavalink1.com
+Secure: false
+```
+Hosted by @ [ayvl#2008](https://discord.gg/thermalhosting)
+```bash
+host: nyc-04.thermalhosting.com
+port: 2000
+password: thermalhosting.lavalink2.com
+Secure: false
+```
 
 
 
